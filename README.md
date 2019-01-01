@@ -2,7 +2,7 @@
 
 ### Links do curso:
 
-### Quem são: https://www.cursoemvideo.com/sobre-2/
+#### Quem são: https://www.cursoemvideo.com/sobre-2/
 
 #### Mundo 1: Fundamentos: http://www.cursoemvideo.com/course/curso-python-3/
 
